@@ -1,6 +1,6 @@
-<?php namespace Mailinator;
+<?php namespace Hboers\Mailinator;
 
-class Fetch {
+class Wrapper {
 	private $token;
 	private $apiEndpoint = "https://api.mailinator.com/api/";
 	private $inboxCount = 0;

@@ -10,11 +10,12 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.4.0"
     },
     "autoload": {
-        "classmap": [
-            "migrations"
-        ]
-    }
+       "psr-4": {
+          "Hboers\\Mailinator\\": "src/"
+       } 
+    },
+    "minimum-stability": "dev"
 }
