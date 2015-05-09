@@ -1,0 +1,20 @@
+{
+    "name": "hboers/mailinator",
+    "description": "laravel packages for the mailinator wrapper thepieterdc/mailinator_php",
+    "homepage": "https://github.com/hboers/mailinator-laravel",
+    "keywords": ["laravel", "mailinator"],
+    "authors": [
+        {
+            "name": "hboers",
+            "email": "me@hboers.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {
+        "classmap": [
+            "migrations"
+        ]
+    }
+}
