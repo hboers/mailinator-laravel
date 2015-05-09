@@ -1,4 +1,6 @@
-# mailinator_php
+# mailinator-laravel
+
+A laravel package for [mailinator_php](https://github.com/thepieterdc/mailinator_php).
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/brnlbs/mailinator/blob/master/LICENSE)
 
