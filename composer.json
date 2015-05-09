@@ -1,6 +1,8 @@
 {
  "name": "hboers/mailinator",
- "description": "",
+ "description": "laravel package for https://github.com/thepieterdc/mailinator_php",
+ "keywords": "mailinator,api,wrapper",
+ "license": "MIT",
  "authors": [
  {
  "name": "hboers",
